@@ -1,6 +1,6 @@
 # Pong
 
-![Basic AI Version](output/Pong-BasicAI-001.gif)
+![Basic AI Version](Pong-BasicAI-001.gif)
 
 Pong is a basic game that allows a human player to rally a ball back and forth against a computer using a paddle which slides vertically. 
 
